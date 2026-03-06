@@ -1,2 +1,2 @@
 # AgroSmart-AI
-next level agriculture in the future  world 
+All-in-One Intelligent Farming Assistant
