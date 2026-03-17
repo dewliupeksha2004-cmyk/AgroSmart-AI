@@ -1,2 +1,2 @@
-# AgroSmart-AI
-All-in-One Intelligent Farming Assistant
+# AgroVision-AI
+Smart Crop Health and Quality Detection System
